@@ -1,6 +1,6 @@
 {
   "name": "yt-effects",
-  "version": "0.0.1",
+  "version": "2025.11.17",
   "description": "Visual Editor for SRV3 Format Subtitles for YouTube",
   "homepage": "https://github.com/toki1703/YT-Effects#readme",
   "bugs": {
@@ -29,7 +29,8 @@
     "@electron-forge/plugin-auto-unpack-natives": "^7.10.2",
     "@electron-forge/plugin-fuses": "^7.10.2",
     "@electron/fuses": "^1.8.0",
-    "electron": "^39.2.1"
+    "electron": "^39.2.1",
+    "electron-builder": "^26.0.12"
   },
   "dependencies": {
     "electron-squirrel-startup": "^1.0.1",
